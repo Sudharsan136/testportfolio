@@ -12,7 +12,7 @@ export default {
       },
       // Create the shortcut name
       animation: {
-        slideDown: 'slideDown 100s ease-out forwards',
+        slideDown: 'slideDown 1s ease-out forwards',
       },
     },
   },
