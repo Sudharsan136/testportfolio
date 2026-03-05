@@ -4,6 +4,7 @@ import Project from './components/Project'
 import Footer from './components/Footer'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPhone,faEnvelope  } from "@fortawesome/free-solid-svg-icons";
+import About from './components/About';
 
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
       </div>
 
       <Box />
+      <About/>
       <Project />
       <Footer />
     </div>
